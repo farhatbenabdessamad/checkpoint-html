@@ -1,0 +1,15 @@
+.row{
+    margin-top: 3rem;
+    width: 1500px;
+    font-size: 2rem;
+    margin-left: -10rem;
+    }
+.col-lg-4{
+    margin-right: 10rem;
+ 
+}
+header,section{
+    background-image: url(./growth-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
